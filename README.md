@@ -24,7 +24,7 @@ This is a Python tool that assesses the strength of a password based on criteria
 
 1. **Clone the repository**:
 
-   git clone https://github.com/your-username/password-strength-checker.git
+   git clone https://github.com/SyedAbdulKani/PRODIGY_CS_03
    cd password-strength-checker
 
 2.**Ensure Tkinter is installed**:
